@@ -1,4 +1,5 @@
 /** @format */
+
 function deleteButton() {
   let button = document.getElementById("deleteButton");
 
